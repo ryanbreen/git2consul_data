@@ -1,4 +1,5 @@
 {
 	"sample": "configuration",
-	"mongodb": "teststring"
+	"mongodb": "teststring",
+	"test2": "value"
 }
